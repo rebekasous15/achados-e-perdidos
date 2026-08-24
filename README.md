@@ -33,10 +33,14 @@ Facilitar a localização e devolução de objetos perdidos, evitando que itens 
 
 Usuários principais
 Alunos: pessoas que perderam algum objeto
+
 Alunos e funcionários: pessoas que encontraram objetos
+
 Funcionários responsáveis: pessoas que organizam e controlam os objetos encontrados.
+
 Primeira Sprint
 Objetivo
+
 Criar e testar uma forma simples de registrar e consultar objetos perdidos e encontrados na escola.
 
 Tarefas
