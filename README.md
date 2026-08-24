@@ -1,10 +1,13 @@
 Achados e Perdidos
+
 Sobre o projeto
+
 O Achados e perdidos é um sistema desenvolvido para facilitar o registro, a consulta e a devolução de objetos perdidos dentro da escola.
 
 A proposta é criar um espaço organizado onde alunos e funcionários possam registrar objetos encontrados e consultar itens que tenham sido perdidos.
 
 Problema
+
 Na escola, alunos e funcionários perdem objetos e muitas vezes têm dificuldade para descobrir se alguém encontrou o item.
 
 Além disso, objetos encontrados podem ficar sem identificação ou sem um local organizado para consulta, aumentando as chances de serem esquecidos ou descartados.
