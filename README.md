@@ -16,12 +16,19 @@ Solução proposta
 Criar um sistema de Achados e Perdidos que permita:
 
 Registrar objetos encontrados
+
 Consultar objetos perdidos
+
 Informar onde e quando um objeto foi encontrado
+
 Facilitar a identificação do dono
+
 Organizar os objetos encontrados
+
 Auxiliar no processo de devolução.
+
 Principal benefício
+
 Facilitar a localização e devolução de objetos perdidos, evitando que itens encontrados sejam esquecidos, acumulados ou descartados.
 
 Usuários principais
