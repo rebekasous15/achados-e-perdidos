@@ -41,11 +41,12 @@ Tarefas
  Coletar sugestões de melhoria.
 
     Equipe:
-Integrante Responsabilidade
+Integrante e Responsabilidade
 
-Davila : Produto
+Davila: Produto
 Rebeka: Tecnologia
-Wanessa: Pesquisa / Usuário Lucivania: Organização e documentação
+Wanessa: Pesquisa / Usuário
+Lucivania: Organização e documentação
 
 Issues da Primeira Sprint
 Issue 1 — Investigar o problema dos objetos perdidos
@@ -64,6 +65,7 @@ Data em que foi encontrado
 Características específicas
 Situação do objeto
 Informações para facilitar a identificação do proprietário.
+
 Issue 3 — Criar primeira solução
 Montar um modelo simples para registrar e consultar os objetos perdidos e encontrados.
 
