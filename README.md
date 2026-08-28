@@ -69,15 +69,15 @@ Wanessa: Pesquisa / Usuário
 
 Lucivania: Organização e documentação
 
-##Issues da Primeira Sprint
+Issues da Primeira Sprint
 
-##Issue 1 — Investigar o problema dos objetos perdidos
+Issue 1 — Investigar o problema dos objetos perdidos
 
 Conversar com alunos e funcionários para descobrir como os objetos perdidos são tratados atualmente.
 
 Objetivo: entender as principais dificuldades enfrentadas pelos usuários.
 
-##Issue 2 — Definir informações dos objetos
+Issue 2 — Definir informações dos objetos
 
 Identificar quais informações são importantes para registrar um objeto encontrado.
 
@@ -95,19 +95,19 @@ Situação do objeto
 
 Informações para facilitar a identificação do proprietário.
 
-##Issue 3 — Criar primeira solução
+Issue 3 — Criar primeira solução
 
 Montar um modelo simples para registrar e consultar os objetos perdidos e encontrados.
 
 Objetivo: criar uma primeira versão que possa ser apresentada e testada pelos usuários.
 
-##Issue 4 — Testar com usuários
+Issue 4 — Testar com usuários
 
 Apresentar o modelo para alguns alunos e registrar suas opiniões.
 
 Objetivo: descobrir se a solução é fácil de entender e utilizar.
 
-##Issue 5 — Documentar resultados
+Issue 5 — Documentar resultados
 
 Registrar no GitHub os resultados da primeira Sprint, incluindo:
 
@@ -135,6 +135,6 @@ Feedback de alunos
 
 Uma lista de melhorias para as próximas Sprints.
 
-##Próximos passos
+Próximos passos
 
 Após a primeira Sprint, a equipe poderá utilizar os resultados obtidos para melhorar o modelo e desenvolver novas funcionalidades do Achados e perdidos, tornando o processo de busca e devolução de objetos cada vez mais simples e organizado.
