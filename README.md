@@ -12,7 +12,8 @@ Na escola, alunos e funcionários perdem objetos e muitas vezes têm dificuldade
 
 Além disso, objetos encontrados podem ficar sem identificação ou sem um local organizado para consulta, aumentando as chances de serem esquecidos ou descartados.
 
-Solução proposta
+## Solução proposta
+
 Criar um sistema de Achados e Perdidos que permita:
 
 Registrar objetos encontrados
@@ -31,7 +32,8 @@ Principal benefício
 
 Facilitar a localização e devolução de objetos perdidos, evitando que itens encontrados sejam esquecidos, acumulados ou descartados.
 
-Usuários principais
+## Usuários principais
+
 Alunos: pessoas que perderam algum objeto
 
 Alunos e funcionários: pessoas que encontraram objetos
@@ -39,11 +41,13 @@ Alunos e funcionários: pessoas que encontraram objetos
 Funcionários responsáveis: pessoas que organizam e controlam os objetos encontrados.
 
 Primeira Sprint
+
 Objetivo
 
 Criar e testar uma forma simples de registrar e consultar objetos perdidos e encontrados na escola.
 
 Tarefas
+
  Conversar com alunos sobre os principais problemas relacionados a objetos perdidos.
 
  Identificar quais informações são necessárias para registrar um objeto.
@@ -65,14 +69,15 @@ Wanessa: Pesquisa / Usuário
 
 Lucivania: Organização e documentação
 
-Issues da Primeira Sprint
-Issue 1 — Investigar o problema dos objetos perdidos
+##Issues da Primeira Sprint
+
+##Issue 1 — Investigar o problema dos objetos perdidos
 
 Conversar com alunos e funcionários para descobrir como os objetos perdidos são tratados atualmente.
 
 Objetivo: entender as principais dificuldades enfrentadas pelos usuários.
 
-Issue 2 — Definir informações dos objetos
+##Issue 2 — Definir informações dos objetos
 
 Identificar quais informações são importantes para registrar um objeto encontrado.
 
@@ -90,19 +95,19 @@ Situação do objeto
 
 Informações para facilitar a identificação do proprietário.
 
-Issue 3 — Criar primeira solução
+##Issue 3 — Criar primeira solução
 
 Montar um modelo simples para registrar e consultar os objetos perdidos e encontrados.
 
 Objetivo: criar uma primeira versão que possa ser apresentada e testada pelos usuários.
 
-Issue 4 — Testar com usuários
+##Issue 4 — Testar com usuários
 
 Apresentar o modelo para alguns alunos e registrar suas opiniões.
 
 Objetivo: descobrir se a solução é fácil de entender e utilizar.
 
-Issue 5 — Documentar resultados
+##Issue 5 — Documentar resultados
 
 Registrar no GitHub os resultados da primeira Sprint, incluindo:
 
@@ -130,6 +135,6 @@ Feedback de alunos
 
 Uma lista de melhorias para as próximas Sprints.
 
-Próximos passos
+##Próximos passos
 
 Após a primeira Sprint, a equipe poderá utilizar os resultados obtidos para melhorar o modelo e desenvolver novas funcionalidades do Achados e perdidos, tornando o processo de busca e devolução de objetos cada vez mais simples e organizado.
