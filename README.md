@@ -1,6 +1,6 @@
-Achados e Perdidos
+# Achados e Perdidos
 
-Sobre o projeto
+## Sobre o projeto
 
 O Achados e perdidos é um sistema desenvolvido para facilitar o registro, a consulta e a devolução de objetos perdidos dentro da escola.
 
@@ -58,53 +58,78 @@ Tarefas
 Integrante e Responsabilidade
 
 Davila: Produto
+
 Rebeka: Tecnologia
+
 Wanessa: Pesquisa / Usuário
+
 Lucivania: Organização e documentação
 
 Issues da Primeira Sprint
 Issue 1 — Investigar o problema dos objetos perdidos
+
 Conversar com alunos e funcionários para descobrir como os objetos perdidos são tratados atualmente.
 
 Objetivo: entender as principais dificuldades enfrentadas pelos usuários.
 
 Issue 2 — Definir informações dos objetos
+
 Identificar quais informações são importantes para registrar um objeto encontrado.
 
 Algumas informações inicialmente consideradas:
 
 Nome ou descrição do objeto
+
 Local onde foi encontrado
+
 Data em que foi encontrado
+
 Características específicas
+
 Situação do objeto
+
 Informações para facilitar a identificação do proprietário.
 
 Issue 3 — Criar primeira solução
+
 Montar um modelo simples para registrar e consultar os objetos perdidos e encontrados.
 
 Objetivo: criar uma primeira versão que possa ser apresentada e testada pelos usuários.
 
 Issue 4 — Testar com usuários
+
 Apresentar o modelo para alguns alunos e registrar suas opiniões.
 
 Objetivo: descobrir se a solução é fácil de entender e utilizar.
 
 Issue 5 — Documentar resultados
+
 Registrar no GitHub os resultados da primeira Sprint, incluindo:
 
 Problemas identificados
+
 Informações necessárias
+
 Modelo criado
+
 Feedback dos usuários
+
 Sugestões de melhorias.
-Resultado esperado da Sprint
+
+Resultado esperado da Sprint 
+
 Ao final da primeira Sprint, espera-se ter:
 
 Uma compreensão melhor do problema
+
 As principais informações necessárias para cadastrar objetos
+
 Um modelo inicial do sistema
+
 Feedback de alunos
+
 Uma lista de melhorias para as próximas Sprints.
+
 Próximos passos
+
 Após a primeira Sprint, a equipe poderá utilizar os resultados obtidos para melhorar o modelo e desenvolver novas funcionalidades do Achados e perdidos, tornando o processo de busca e devolução de objetos cada vez mais simples e organizado.
